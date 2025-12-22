@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "dsznajder.es7-react-js-snippets",
+    "msjsdiag.vscode-react-native",
+    "github.github-vscode-theme"
+  ]
+}
